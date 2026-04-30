@@ -1,21 +1,21 @@
-#team {
+.team {
   background-color: #f4f4fd;
 }
 
-#team h2 {
+.team-title {
   color: #2e2f42;
   text-align: center;
 }
 
-#team h3 {
+.team-name {
   color: #2e2f42;
   text-align: center;
 }
 
-#team p {
+.team-role {
   text-align: center;
 }
 
-#team li {
+.team-item {
   background-color: #ffffff;
 }
