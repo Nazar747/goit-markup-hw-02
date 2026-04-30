@@ -5,7 +5,7 @@ body {
   line-height: 1.5;
   font-weight: 400;
   background-color: #ffffff;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 
 h1 {
@@ -34,4 +34,6 @@ a {
   text-decoration: none;
   font-style: normal;
   color: #434455;
+  line-height: 1.33;
+  letter-spacing: 0.04em;
 }
